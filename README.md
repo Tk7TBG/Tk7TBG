@@ -17,6 +17,11 @@ Hi there! 👋 I'm Thami Gabonnwe, a passionate Software developer. I thrive on 
 🔗 [View Repository](#)  
 🔨 Tech Stack: **Python, REST APIs, Flask**
 
+### 2. eBay Price Tracker
+🚀 A Python-based price tracker that scrapes eBay listings to gather information such as product titles, sold prices, sold dates, and more. Supports both auction-based and "Buy It Now" listings with pagination for multi-page scraping.
+🔗 [View Repository](#)  
+🔨 **Tech Stack**: Python, BeautifulSoup, Pandas
+
 ---
 
 ## 🌟 Achievements
